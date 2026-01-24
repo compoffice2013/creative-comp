@@ -12,10 +12,5 @@
 ## パーマリンク
 grand-terrace-toyama-new-year-party-magic-show-2026
 
-## 内部リンク（本文中に挿入）
-- [高岡「カジュアルダイニング BON」で企業新年会マジックショー](https://comp-office.com/blog/bon-shinnenkai-magic-show/)
-- [ロータリークラブ家族例会余興に！ステージ＆テーブルマジックで会場が一体化](https://comp-office.com/blog/rotary-club-family-magic-show-toyama/)
-- [テーブルマジックについて](https://comp-office.com/service/table-magic/)
-
 ## 外部リンク（DoFollow）
 - [グランテラス富山 公式サイト](https://www.grand-terrace.com/branches/toyama/)
