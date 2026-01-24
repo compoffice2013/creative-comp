@@ -11,6 +11,3 @@
 
 ## パーマリンク
 grand-terrace-toyama-new-year-party-magic-show-2026
-
-## 外部リンク（DoFollow）
-- [グランテラス富山 公式サイト](https://www.grand-terrace.com/branches/toyama/)
