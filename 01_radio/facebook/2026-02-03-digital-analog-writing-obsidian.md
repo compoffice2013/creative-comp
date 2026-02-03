@@ -16,6 +16,7 @@
 ⠀
 そんなお話をラジオでもさせていただきました！ぜひブログも覗いてみてくださいね。
 ⠀
-出会いに感謝！ご縁に感謝！
+【ブログ記事はこちら】
+デジタルとアナログの狭間で。Obsidianで脳を拡張する書き方
 ⠀
 https://comp-office.com/blog/digital-analog-writing-obsidian-brain/
